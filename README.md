@@ -65,13 +65,8 @@ I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
-<br clear="both">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adwii-iii&theme=aura_dark" height="180em" width="100%"/><br>
 
-<img src="https://raw.githubusercontent.com/adwii-iii/adwii-iii/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adwii-iii&theme=aura_dark" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adwii-iii&theme=react-dark"/>

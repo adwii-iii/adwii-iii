@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋! My name is Aditya S and <br>
 I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adwii-iii&label=Profile%20views&color=0e75b6&style=flat" alt="adwii-iii" /> </p>
 
 ###
 

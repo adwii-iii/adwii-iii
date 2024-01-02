@@ -62,3 +62,5 @@ I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
 </div>
 <h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adwii-iii&theme=react-dark"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwii-iii&theme=dracula"/>
